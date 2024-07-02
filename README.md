@@ -8,24 +8,58 @@ Soy un apasionado de la tecnología, siempre buscando aprender y crecer profesio
 
 ## Habilidades
 
+- **Gestión Documental**
+- **Gestión de Bases de Datos**
+- **Apoyo en Desarrollo Web**
+- **Apoyo Administrativo**
+- **Apoyo en Gestión de Proyectos**
+- **Alistamiento de Equipos**
+- **Gestión Básica de Redes**
+- **Trabajo en Equipo**
+- **Adaptabilidad**
+- **Pensamiento Crítico**
+- **Comunicación Efectiva**
+- **Desarrollo de Software**: Técnicas de desarrollo ágil(Scrum), metodologías de trabajo en equipo, control de versiones con Git.
+
+## Conocimientos
+
 - **Frontend**: Angular
 - **Backend**: .NET
-- **Base de Datos**: SQL
-- **Otros Lenguajes**: [Java,C++, Python]
-- **Desarrollo de Software**: Técnicas de desarrollo ágil (Scrum), metodologías de trabajo en equipo, control de versiones con Git, entre otras.
+- **Office 365**
+- **SQL**
+- **Azure DevOps**
+- **Angular**
+- **Java**
+- **ASP.NET**
+- **C#**
+- **.NET Framework**
 
-## Experiencia
+### Experiencia Laboral
 
-- **Desarrollador Full Stack Junior**: Experiencia en la creación y mantenimiento de aplicaciones web utilizando Angular y .NET.
-- **Proyectos Académicos**: Participación en diversos proyectos académicos que me han permitido aplicar y expandir mis conocimientos técnicos.
+- **Ingeniero Junior de Desarrollo en DigitalWare** (Mayo 2022 - Agosto 2023)
+  - Proyecto Klinic: Diseñar, construir, probar y mantener soluciones tecnológicas, asegurando su funcionamiento eficiente y su cumplimiento de requisitos y plazos.
+  - Uso de Angular como framework para front-end y ASP.NET para el back-end, con SQL Server como motor de base de datos.
+
+- **Analista de Requerimientos Junior en Globalhitss** (Enero 2020 - Mayo 2022)
+  - Realización del seguimiento de requerimientos solicitados por el usuario.
+  - Apoyo para garantizar la calidad y el cumplimiento de tiempos de desarrollo.
+  - Entrega y puesta a producción de los desarrollos al usuario.
+
+- **Analista de Requerimientos SQA en Eieme S.A.S.** (Enero 2019 - Diciembre 2019)
+  - Garantizar que los requisitos del software sean sólidos, verificables y alineados con las necesidades de los clientes.
+  - Contribuir a la calidad del producto final y a la satisfacción de los usuarios.
+
+- **Aprendiz en Desarrollo de Software en Eieme S.A.S.** (Julio 2018 - Enero 2019)
+  - Adquisición de habilidades necesarias para convertirse en un desarrollador de software más experimentado con el tiempo.
 
 ## Educación
 
 - **Ingeniería de Sistemas**: Universidad Central (actualmente en sexto semestre)
-- **Técnico en Desarrollo de Software**: SENA año:2019
+- **Técnico en Desarrollo de Software**: SENA, Graduado en 2019
+- **Bachiller Académico**: Gimnasio Monseñor Manuel María Camargo, 2017
 
 ## Contacto
-
+- **Teléfono**: (+57) 3505763226
 - **Correo Electrónico**: garzonbrayan1201@hotmail.com
 - **LinkedIn**: (https://www.linkedin.com/in/brayan-andres-g-2ab556142)
   
