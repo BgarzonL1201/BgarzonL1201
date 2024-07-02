@@ -1,4 +1,4 @@
-# ¡Hola! Soy Brayan Andres Garzón Lopez
+# ¡Hola! Soy Brayan Andres Garzón Lopez 👋
 
 ## Sobre mí
 
@@ -6,7 +6,7 @@ Soy estudiante de Ingeniería de Sistemas en sexto semestre en la Universidad Ce
 
 Soy un apasionado de la tecnología, siempre buscando aprender y crecer profesionalmente. Me considero una persona responsable y dinámica, con metas claras y precisas. Aprendo rápido y soy muy comprometido con la puntualidad, la honestidad y la responsabilidad en todas mis actividades.
 
-## Habilidades
+## Habilidades 🚀
 
 - **Gestión Documental**
 - **Gestión de Bases de Datos**
@@ -19,9 +19,9 @@ Soy un apasionado de la tecnología, siempre buscando aprender y crecer profesio
 - **Adaptabilidad**
 - **Pensamiento Crítico**
 - **Comunicación Efectiva**
-- **Desarrollo de Software**: Técnicas de desarrollo ágil(Scrum), metodologías de trabajo en equipo, control de versiones con Git.
+- **Desarrollo de Software**: Técnicas de desarrollo ágil (Scrum), metodologías de trabajo en equipo, control de versiones con Git.
 
-## Conocimientos
+## Conocimientos 🧠
 
 - **Frontend**: Angular
 - **Backend**: .NET
@@ -34,7 +34,7 @@ Soy un apasionado de la tecnología, siempre buscando aprender y crecer profesio
 - **C#**
 - **.NET Framework**
 
-### Experiencia Laboral
+## Experiencia Laboral 💼
 
 - **Ingeniero Junior de Desarrollo en DigitalWare** (Mayo 2022 - Agosto 2023)
   - Proyecto Klinic: Diseñar, construir, probar y mantener soluciones tecnológicas, asegurando su funcionamiento eficiente y su cumplimiento de requisitos y plazos.
@@ -52,21 +52,23 @@ Soy un apasionado de la tecnología, siempre buscando aprender y crecer profesio
 - **Aprendiz en Desarrollo de Software en Eieme S.A.S.** (Julio 2018 - Enero 2019)
   - Adquisición de habilidades necesarias para convertirse en un desarrollador de software más experimentado con el tiempo.
 
-## Educación
+## Educación 🎓
 
 - **Ingeniería de Sistemas**: Universidad Central (actualmente en sexto semestre)
 - **Técnico en Desarrollo de Software**: SENA, Graduado en 2019
 - **Bachiller Académico**: Gimnasio Monseñor Manuel María Camargo, 2017
 
-## Contacto
+## Contacto 📞
+
 - **Teléfono**: (+57) 3505763226
 - **Correo Electrónico**: garzonbrayan1201@hotmail.com
-- **LinkedIn**: (https://www.linkedin.com/in/brayan-andres-g-2ab556142)
+- **LinkedIn**: [linkedin.com/in/brayan-andres-g-2ab556142](https://www.linkedin.com/in/brayan-andres-g-2ab556142)
   
-## Objetivos
+## Objetivos 🎯
 
 Mi objetivo es seguir desarrollando mis habilidades técnicas y profesionales en el campo del desarrollo de software, contribuyendo a proyectos innovadores y desafiantes. Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración.
 
 ---
 
-Gracias por tomarte el tiempo de leer mi perfil. Si tienes alguna pregunta o deseas saber más, no dudes en contactarme.
+¡Gracias por tomarte el tiempo de leer mi perfil! Si tienes alguna pregunta o deseas saber más, no dudes en contactarme.
+
